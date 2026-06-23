@@ -13,6 +13,6 @@ namespace Library_Management_System.Models
         public string ReturnDate { get; set; }
         public int MemberID { get; set; }
         public int BookID { get; set; }
-        public Double FineAmout { get; set; }
+        public Double FineAmout { get; set; }// calculated
     }
 }

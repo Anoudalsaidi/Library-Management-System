@@ -9,7 +9,7 @@ namespace Library_Management_System.Models
    public class Book
     {
         public int BookID { get; set; } // generatd
-        public string BookTitle { get; set; } // input
+        public string BookTitle { get; set; } // user input
         public string BookAuthor { get; set; }// input
         public string Gerne { get; set; }//input
         public int BookStock { get; set; } 

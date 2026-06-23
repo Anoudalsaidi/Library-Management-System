@@ -176,6 +176,7 @@ namespace Library_Management_System
                     ViewAllBook();
                     break;
                 case 4:
+                    BorrowBook();
                     break;
                 case 5:
                     break;
